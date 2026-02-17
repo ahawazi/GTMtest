@@ -14,14 +14,16 @@
     <!-- End Google Tag Manager -->
 
     <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ST3TW66TL3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ST3TW66TL3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-  gtag('config', 'G-ST3TW66TL3');
-</script>
+        gtag('config', 'G-ST3TW66TL3');
+    </script>
+
+    <script src="https://t.contentsquare.net/uxa/8ea8aa2066a36.js"></script>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
